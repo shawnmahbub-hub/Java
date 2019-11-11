@@ -1,4 +1,4 @@
-package com.shawn;
+package com.topics;
 
 import java.util.Scanner;
 
