@@ -1,6 +1,6 @@
 package com.topics;
 
-public class For {
+public class For_loop {
 
     public static void main(String[] args) {
 
