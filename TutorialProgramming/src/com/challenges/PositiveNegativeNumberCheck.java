@@ -1,4 +1,4 @@
-package com.shawn;
+package com.challenges;
 
 import java.util.Scanner;
 
